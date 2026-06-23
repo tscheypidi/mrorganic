@@ -1,8 +1,8 @@
 Type: Package
 Package: mrorganic
 Title: Provide soil organic carbon and biomass data
-Version: 0.5.6
-Date: 2023-06-02
+Version: 0.5.7
+Date: 2026-06-23
 Authors@R: c(
     person("Jan Philipp", "Dietrich", , "dietrich@pik-potsdam.de", role = c("aut", "cre")),
     person("Pascal", "Sauer", , "pascal.sauer@pik-potsdam.de", role = "aut"),
@@ -29,4 +29,4 @@ VignetteBuilder:
     knitr
 Encoding: UTF-8
 LazyData: no
-RoxygenNote: 7.2.3
+Config/roxygen2/version: 8.0.0

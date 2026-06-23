@@ -11,3 +11,5 @@
 ^Makefile$
 ^vignettes/.lintr$
 ^.*CITATION.cff$
+^\.claude$
+^_pkgdown\.yml$
