@@ -20,7 +20,7 @@ Useful links:
 
 Authors:
 \itemize{
-  \item Pascal Führlich \email{pascal.fuehrlich@pik-potsdam.de}
+  \item Pascal Sauer \email{pascal.fuehrlich@pik-potsdam.de}
 }
 
 Other contributors:

@@ -18,5 +18,5 @@ A raster with ecoregion information as a data.frame
 Produces a raster with ecoregion information.
 }
 \author{
-Pascal Führlich
+Pascal Sauer
 }

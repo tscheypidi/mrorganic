@@ -6,7 +6,7 @@
 #' @param ncols Number of columns in the raster produced.
 #' @return A raster with ecoregion information as a data.frame
 #'
-#' @author Pascal Führlich
+#' @author Pascal Sauer
 calcEcoregions2017Raster <- function(nrows = 720, ncols = 1440) {
   ecoregions <- readSource("Ecoregions2017")
   ecoregionsRaster <- terra::rasterize(ecoregions, terra::rast(nrows = nrows, ncols = ncols), "OBJECTID",

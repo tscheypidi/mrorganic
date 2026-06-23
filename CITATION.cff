@@ -10,11 +10,10 @@ authors:
 - family-names: Dietrich
   given-names: Jan Philipp
   email: dietrich@pik-potsdam.de
-- family-names: Führlich
+- family-names: Sauer
   given-names: Pascal
   email: pascal.fuehrlich@pik-potsdam.de
 - family-names: Valin
   given-names: Hugo
 license: LGPL-3.0
 repository-code: https://github.com/tscheypidi/mrorganic
-

@@ -8,7 +8,7 @@
 #' @return x with additional ecoregion and region information. Spatial subdimensions:
 #'         c("x", "y", "country", "region", "biome", "country_biome", "region_biome")
 #'
-#' @author Pascal Führlich
+#' @author Pascal Sauer
 #' @export
 toolAddEcoregions <- function(x, ecoregions, regionmapping) {
   # add ecoregions based on coordinates
