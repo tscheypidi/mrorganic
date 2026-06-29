@@ -1,8 +1,8 @@
 # Provide soil organic carbon and biomass data
 
-R package **mrorganic**, version **0.5.6**
+R package **mrorganic**, version **0.5.7**
 
-[![CRAN status](https://www.r-pkg.org/badges/version/mrorganic)](https://cran.r-project.org/package=mrorganic)  [![R build status](https://github.com/tscheypidi/mrorganic/workflows/check/badge.svg)](https://github.com/tscheypidi/mrorganic/actions) [![codecov](https://codecov.io/gh/tscheypidi/mrorganic/branch/master/graph/badge.svg)](https://app.codecov.io/gh/tscheypidi/mrorganic) [![r-universe](https://pik-piam.r-universe.dev/badges/mrorganic)](https://pik-piam.r-universe.dev/builds)
+   [![R build status](https://github.com/tscheypidi/mrorganic/workflows/check/badge.svg)](https://github.com/tscheypidi/mrorganic/actions) [![codecov](https://codecov.io/gh/tscheypidi/mrorganic/branch/master/graph/badge.svg)](https://app.codecov.io/gh/tscheypidi/mrorganic) [![r-universe](https://pik-piam.r-universe.dev/badges/mrorganic)](https://pik-piam.r-universe.dev/builds)
 
 ## Purpose and Functionality
 
@@ -21,13 +21,13 @@ The additional repository can be made available permanently by adding the line a
 
 After that the most recent version of the package can be installed using `install.packages`:
 
-```r 
+```r
 install.packages("mrorganic")
 ```
 
 Package updates can be installed using `update.packages` (make sure that the additional repository has been added before running that command):
 
-```r 
+```r
 update.packages()
 ```
 
@@ -47,16 +47,17 @@ In case of questions / problems please contact Jan Philipp Dietrich <dietrich@pi
 
 To cite package **mrorganic** in publications use:
 
-Dietrich J, Führlich P (2023). _mrorganic: Provide soil organic carbon and biomass data_. R package version 0.5.6, <URL: https://github.com/tscheypidi/mrorganic>.
+Dietrich J, Sauer P, Valin H (2026). "mrorganic: Provide soil organic carbon and biomass data." Version: 0.5.7, <https://github.com/tscheypidi/mrorganic>.
 
 A BibTeX entry for LaTeX users is
 
  ```latex
-@Manual{,
+@Misc{,
   title = {mrorganic: Provide soil organic carbon and biomass data},
-  author = {Jan Philipp Dietrich and Pascal Führlich},
-  year = {2023},
-  note = {R package version 0.5.6},
+  author = {Jan Philipp Dietrich and Pascal Sauer and Hugo Valin},
+  date = {2026-06-23},
+  year = {2026},
   url = {https://github.com/tscheypidi/mrorganic},
+  note = {Version: 0.5.7},
 }
 ```

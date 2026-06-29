@@ -2,17 +2,17 @@ cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
 title: 'mrorganic: Provide soil organic carbon and biomass data'
-version: 0.5.6
-date-released: '2023-06-02'
+version: 0.5.7
+date-released: '2026-06-23'
 abstract: mrorganic supports downloading and preparing soil organic carbon and biomass
   data for further scientific work.
 authors:
 - family-names: Dietrich
   given-names: Jan Philipp
   email: dietrich@pik-potsdam.de
-- family-names: Führlich
+- family-names: Sauer
   given-names: Pascal
-  email: pascal.fuehrlich@pik-potsdam.de
+  email: pascal.sauer@pik-potsdam.de
 - family-names: Valin
   given-names: Hugo
 license: LGPL-3.0

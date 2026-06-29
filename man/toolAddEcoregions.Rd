@@ -21,5 +21,5 @@ x with additional ecoregion and region information. Spatial subdimensions:
 Enriches a magclass object with ecoregion and region information.
 }
 \author{
-Pascal Führlich
+Pascal Sauer
 }
